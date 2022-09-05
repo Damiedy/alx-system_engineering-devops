@@ -16,3 +16,4 @@ Task 14. It must be in that file - Display lines containing the pattern “root�
 Task 15. Count that word - Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 Task 16. What's next? - Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 Task 17. I hate bins - Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
+Task 18. Letters only please - Display all lines of the file /etc/ssh/sshd_config starting with a letter
