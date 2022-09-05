@@ -12,3 +12,4 @@ Task 10. No more javascript - script that deletes all the regular files (not the
 Task 11. Don't just count your directories, make your directories count - script that counts the number of directories and sub-directories in the current directory
 Task 12. What's new? - script that displays the 10 newest files in the current directory
 Task 13. Being unique is better than being perfect - script that takes a list of words as input and prints only words that appear exactly once
+Task 14. It must be in that file - Display lines containing the pattern “root” from the file /etc/passwd
