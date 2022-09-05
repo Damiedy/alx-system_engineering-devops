@@ -21,3 +21,4 @@ Task 19. A to Z - Replace all characters A and c from input to Z and e respectiv
 Task 20. Without C, you would live in hiago - script that removes all letters c and C from input
 Task 21. esreveR - script that reverse its input
 Task 22. DJ Cut Killer - script that displays all users and their home directories, sorted by users
+Task 23. Empty cask makes the most noise - command that finds all empty files and directories in the current directory and all sub-directories
