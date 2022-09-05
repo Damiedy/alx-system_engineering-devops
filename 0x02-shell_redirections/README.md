@@ -22,3 +22,4 @@ Task 20. Without C, you would live in hiago - script that removes all letters c 
 Task 21. esreveR - script that reverse its input
 Task 22. DJ Cut Killer - script that displays all users and their home directories, sorted by users
 Task 23. Empty cask makes the most noise - command that finds all empty files and directories in the current directory and all sub-directories
+Task 24. A gif is worth ten thousand words - script that lists all the files with a .gif extension in the current directory and all its sub-directories
